@@ -2,7 +2,7 @@
 
 **4.5+ years** building scalable, enterprise-grade applications • **Nairobi, Kenya (EAT UTC+3)** • [Portfolio](https://evanslangat-hub.github.io) • [LinkedIn](https://www.linkedin.com/in/evans-langat/) • `evanslangat22@gmail.com`
 
-> C# / .NET + React / Next.js / TypeScript primary — with solid Java / Spring Boot. I ship REST & Minimal APIs, microservices and event-driven systems, and own the lifecycle from domain modeling → deployment → CloudWatch observability.
+> C# / .NET + React / Next.js / TypeScript primary - with solid Java / Spring Boot. I ship REST & Minimal APIs, microservices and event-driven systems, and own the lifecycle from domain modeling → deployment → CloudWatch observability.
 
 ![Profile views](https://komarev.com/ghpvc/?username=evanslangat-hub&color=0f172a&style=flat)
 ![.NET](https://img.shields.io/badge/.NET-8%20%2F%2010-512BD4?style=flat&logo=dotnet)
@@ -14,7 +14,7 @@
 ---
 
 ### About
-Full-Stack Engineer focused on **.NET (Framework, Core, 8, 10) — ASP.NET Core / MVC / WebForms — EF Core / LINQ** and **React / Next.js / TypeScript**, with production Java / Spring Boot. Hands-on with **AWS (EC2, Lambda, EventBridge, S3, IAM, CloudWatch), Databricks + ETL, Docker, GitHub Actions CI/CD**. Integrations: **M-Pesa, eTIMS, eCitizen, Dynamics 365 Business Central (OData + custom codeunits)**. DBs: **SQL Server, PostgreSQL, MySQL**.
+Full-Stack Engineer focused on **.NET (Framework, Core, 8, 10) - ASP.NET Core / MVC / WebForms — EF Core / LINQ** and **React / Next.js / TypeScript**, with production Java / Spring Boot. Hands-on with **AWS (EC2, Lambda, EventBridge, S3, IAM, CloudWatch), Databricks + ETL, Docker, GitHub Actions CI/CD**. Integrations: **M-Pesa, eTIMS, eCitizen, Dynamics 365 Business Central (OData + custom codeunits)**. DBs: **SQL Server, PostgreSQL, MySQL**.
 
 ---
 
@@ -48,30 +48,30 @@ Full-Stack Engineer focused on **.NET (Framework, Core, 8, 10) — ASP.NET Core 
 
 ### Experience Highlights
 
-**Software Engineer — Griffin Global Tech (client: Amarok Perimeter Security)** `May 2025 – Present`
+**Software Engineer - Griffin Global Tech (client: Amarok Perimeter Security)** `May 2025 – Present`
 - .NET (C# / ASP.NET Core) + React across Amarok's commercial perimeter security platform (fence, access-control, sensor workflows).
 - AWS: EC2, **Lambda**, **EventBridge** (real-time security events), S3, IAM least-privilege.
 - **GitHub Actions** CI/CD + **Databricks ETL** for fence/sensor event streams → reporting/analytics. Full-stack observability via CloudWatch.
 
-**Software Engineer — Dynasoft Business Solutions** `Sept 2023 – Apr 2025`
+**Software Engineer - Dynasoft Business Solutions** `Sept 2023 – Apr 2025`
 - C# / .NET + React for **KURA & KERRA**: Employee Self-Service, E-Procurement, Recruitment & Contractors Portal (**1,000+ contractors onboarded**).
 - Dynamics 365 Business Central **OData + custom codeunits**; **M-Pesa / eTIMS / eCitizen** integrations; Docker on client-owned servers.
 
-**Junior Software Engineer — Skylab Systems** `Aug 2022 – Aug 2023`
+**Junior Software Engineer - Skylab Systems** `Aug 2022 – Aug 2023`
 - Spring Boot REST APIs, MySQL optimization, **Stanbic Bank API → rewards system** real-time transactions.
 
-**Software Engineer Intern — Truweb Tech** `Jan 2022 – July 2022`
+**Software Engineer Intern - Truweb Tech** `Jan 2022 – July 2022`
 - Android (Java/Kotlin) + Firebase; Spring Boot API consumption (food-ordering); **USSD app** for offline access.
 
 ---
 
-### Featured Projects — from CV
+### Featured Projects - from CV
 
 | Project | Stack | Live |
 |---|---|---|
-| **ClearPay — Digital Wallet & Payments Platform** — double-entry ledger wallet, M-Pesa STK Push/B2C + Stripe, JWT/RBAC, idempotent webhooks, holds, ledger-derived balances. EF Core + PostgreSQL, Swagger, Docker, Terraform → AWS ECS. | `ASP.NET Core 10` `Next.js` `React` `PostgreSQL` | [clearpay-dev.vercel.app](https://clearpay-dev.vercel.app) |
-| **Afya Clinic — Outpatient Clinic System** — patients OP/ID/SHA, appointments, daily queue WAITING→COMPLETED, billing, M-Pesa-ready, SHA manual claim batches. | `Next.js` `TypeScript` `Prisma` `PostgreSQL` | [afya-clinic.vercel.app](https://afya-clinic.vercel.app) |
-| **Invoice Loan — Full-Stack Financial App** — React portal + secure .NET 8 API, auth/RBAC, Kafka async event-driven workflows. | `React` `.NET 8` `EF Core` `Kafka` | — |
+| **ClearPay - Digital Wallet & Payments Platform** - double-entry ledger wallet, M-Pesa STK Push/B2C + Stripe, JWT/RBAC, idempotent webhooks, holds, ledger-derived balances. EF Core + PostgreSQL, Swagger, Docker, Terraform → AWS ECS. | `ASP.NET Core 10` `Next.js` `React` `PostgreSQL` | [clearpay-dev.vercel.app](https://clearpay-dev.vercel.app) |
+| **Afya Clinic - Outpatient Clinic System** — patients OP/ID/SHA, appointments, daily queue WAITING→COMPLETED, billing, M-Pesa-ready, SHA manual claim batches. | `Next.js` `TypeScript` `Prisma` `PostgreSQL` | [afya-clinic.vercel.app](https://afya-clinic.vercel.app) |
+| **Invoice Loan - Full-Stack Financial App** — React portal + secure .NET 8 API, auth/RBAC, Kafka async event-driven workflows. | `React` `.NET 8` `EF Core` `Kafka` | — |
 
 > More on portfolio + repos. All demos are on separate hosted deployments — no local file paths.
 
@@ -86,18 +86,16 @@ Full-Stack Engineer focused on **.NET (Framework, Core, 8, 10) — ASP.NET Core 
 
 ### Certifications & Education
 
-- **LinkedIn Certified** — Cloud Computing for IT Pros (2022)
-- **JetBrains Certified** — Java (2024)
-- **BSc Computer Science** — Dedan Kimathi University of Technology — *May 2018 – May 2022* — Data Structures, DB Systems, SE, Networks, OS, Web Dev
+- **LinkedIn Certified** - Cloud Computing for IT Pros (2022)
+- **JetBrains Certified** - Java (2024)
+- **BSc Computer Science** - Dedan Kimathi University of Technology — *May 2018 – May 2022* — Data Structures, DB Systems, SE, Networks, OS, Web Dev
 
 ---
 
 ### Contact
 
-- Email: `evanslangat22@gmail.com` — Phone: `+254 705 719 262`
-- LinkedIn: `linkedin.com/in/evans-langat` — GitHub: `github.com/evanslangat-hub`
-
-> References available on request — Stanley Mbote (Griffin) • Brian Orina (Dynasoft)
+- Email: `evanslangat22@gmail.com` - Phone: `+254 705 719 262`
+- LinkedIn: `linkedin.com/in/evans-langat` - GitHub: `github.com/evanslangat-hub`
 
 ---
 
