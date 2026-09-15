@@ -4,13 +4,13 @@
 
 > C# / .NET + React / Next.js / TypeScript primary - with solid Java / Spring Boot. I ship REST & Minimal APIs, microservices and event-driven systems, and own the lifecycle from domain modeling → deployment → CloudWatch observability.
 
-![Profile views](https://komarev.com/ghpvc/?username=evanslangat-hub&color=0f172a&style=flat)
 ![.NET](https://img.shields.io/badge/.NET-8%20%2F%2010-512BD4?style=flat&logo=dotnet)
 ![React](https://img.shields.io/badge/React-Next.js-61DAFB?style=flat&logo=react)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=flat&logo=springboot)
 ![AWS](https://img.shields.io/badge/AWS-Lambda%20%7C%20EventBridge-FF9900?style=flat&logo=amazonaws)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EF_Core%20%7C%20Prisma-4169E1?style=flat&logo=postgresql)
-
+![Microsoft Dataverse](https://img.shields.io/badge/Microsoft_Dataverse-OData%20%7C%20Web_API-742774?style=flat&logo=microsoft)
+![Microsoft Dynamics 365 Business Central](https://img.shields.io/badge/Microsoft_Dynamics_365_Business_Central-OData%20%7C%20REST%20API-0078D4?style=flat&logo=microsoft)
 ---
 
 ### About
