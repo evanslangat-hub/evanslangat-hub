@@ -1,102 +1,82 @@
-# Evans Langat - Full-Stack Software Engineer (.NET | React | Spring Boot)
+# Evans Langat — Data Engineer
 
-**4.5+ years** building scalable, enterprise-grade applications • **Nairobi, Kenya (EAT UTC+3)** • [Portfolio](https://evanslangat-hub.github.io) • [LinkedIn](https://www.linkedin.com/in/evans-langat/) • `evanslangat22@gmail.com`
+**Data Engineer with 4.5+ years of professional experience** building scalable software solutions and data-driven systems.
 
-> C# / .NET + React / Next.js / TypeScript primary - with solid Java / Spring Boot. I ship REST & Minimal APIs, microservices and event-driven systems, and own the lifecycle from domain modeling → deployment → CloudWatch observability.
-
-![.NET](https://img.shields.io/badge/.NET-8%20%2F%2010-512BD4?style=flat&logo=dotnet)
-![React](https://img.shields.io/badge/React-Next.js-61DAFB?style=flat&logo=react)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=flat&logo=springboot)
-![AWS](https://img.shields.io/badge/AWS-Lambda%20%7C%20EventBridge-FF9900?style=flat&logo=amazonaws)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EF_Core%20%7C%20Prisma-4169E1?style=flat&logo=postgresql)
-![Microsoft Dataverse](https://img.shields.io/badge/Microsoft_Dataverse-OData%20%7C%20Web_API-742774?style=flat&logo=microsoft)
-![Microsoft Dynamics 365 Business Central](https://img.shields.io/badge/Microsoft_Dynamics_365_Business_Central-OData%20%7C%20REST%20API-0078D4?style=flat&logo=microsoft)
----
-
-### About
-Full-Stack Engineer focused on **.NET (Framework, Core, 8, 10) - ASP.NET Core / MVC / WebForms — EF Core / LINQ** and **React / Next.js / TypeScript**, with production Java / Spring Boot. Hands-on with **AWS (EC2, Lambda, EventBridge, S3, IAM, CloudWatch), Databricks + ETL, Docker, GitHub Actions CI/CD**. Integrations: **M-Pesa, eTIMS, eCitizen, Dynamics 365 Business Central (OData + custom codeunits)**. DBs: **SQL Server, PostgreSQL, MySQL**.
+📧 [evanslangat22@gmail.com](mailto:evanslangat22@gmail.com) · 📞 [+254 705 719 262](tel:+254705719262)
 
 ---
 
-### Tech Stack
+## Professional Summary
 
-**Languages**
-`C#` `Java` `TypeScript` `Kotlin` `SQL`
+Data Engineer with 4.5+ years of professional experience building scalable software solutions and data-driven systems. Hands-on experience designing and developing ETL/ELT data pipelines using Databricks, Apache Airflow, Python, SQL, dbt, Snowflake, and AWS. Experienced in data ingestion, transformation, data modelling, quality validation, workflow orchestration, and automation across batch and event-driven workloads.
 
-**Backend — Primary: .NET**
-`.NET Framework / Core / 8 / 10` • `ASP.NET Core` • `ASP.NET MVC` • `WebForms` • `EF Core` • `LINQ` • `RESTful & Minimal APIs` • `Microservices`
+## Skills
 
-**Backend — Secondary: Java**
-`Spring Boot` • `Spring Data JPA / Hibernate` • `REST APIs` • `Kafka (event-driven)`
+- **Programming & Query Languages:** Python, SQL, C#, Java, JavaScript, TypeScript
+- **Data Engineering Tools:** Apache Airflow, dbt, Databricks, Apache Spark, PySpark, Snowflake
+- **Cloud & Infrastructure:** AWS (S3, RDS, EC2, CloudWatch, SQS, EventBridge), Terraform, Docker
+- **Databases:** Snowflake, PostgreSQL, MySQL, RDS, SQL Server
+- **Engineering Practices:** Workflow orchestration, CI/CD, infrastructure as code, automated testing, data pipeline monitoring, system integration
 
-**Frontend**
-`React` `Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui` • Responsive dashboards & portals • `Kotlin / Android` + `Firebase` (Auth, Realtime, Push)
+## Key Career Accomplishments
 
-**Cloud & DevOps**
-`AWS EC2` `AWS Lambda` `EventBridge` `S3` `IAM` `CloudWatch` • `Docker` • `GitHub Actions` • `Terraform / AWS ECS` (ClearPay)
+- Integrated Docker into development workflows, enabling consistent deployments across environments.
+- Engineered ETL pipelines for data ingestion, transformation, and storage, improving data accessibility and reliability for analytics.
+- Implemented streaming and batch data processing solutions using tools like Kafka and Spark, supporting real-time and large-scale data workflows.
 
-**Data & Messaging**
-`Databricks` `ETL Pipelines` `Kafka` `PostgreSQL` `SQL Server` `MySQL`
+## Experience
 
-**Integrations**
-`M-Pesa (STK Push & B2C)` `eTIMS` `eCitizen` `Dynamics 365 Business Central OData` `custom codeunits` `Stripe Checkout` `Stanbic Bank API`
+### Data Engineer — Griffin Global Tech | United States
+*May 2025 – Present*
 
-**Tools**
-`Git` `Swagger / OpenAPI` `Postman` `Prisma` `NextAuth`
+- Designed and maintained scalable data pipelines using Databricks and PySpark for ingestion, transformation, and processing of large datasets across batch and real-time workloads.
+- Utilized dbt (Data Build Tool) to develop modular, version-controlled transformations and deliver analytics-ready datasets for downstream reporting and analytics.
+- Implemented Kafka-based streaming pipelines to continuously collect, process, and transform alarm data, supporting near real-time monitoring and analysis of operational events.
+- Implemented AWS SQS and EventBridge-based CDC workflows to capture change events from Salesforce and trigger downstream processing and data execution.
+- Integrated data from Salesforce and other operational sources, applying transformation, validation, and data quality rules to maintain reliable analytical datasets.
+- Deployed and managed cloud infrastructure using Terraform, enabling reproducible and automated provisioning of data and application resources.
+- Leveraged AWS S3 and RDS for data storage and CloudWatch for logging, monitoring, and alerting to support reliable data pipeline operations.
+- Built and optimized interactive Databricks dashboards to provide actionable insights for business and technical teams.
 
----
+### Data Engineer — Dynasoft Business Solution | Kenya
+*September 2023 – April 2025*
 
-### Experience Highlights
+- Designed and developed Python- and SQL-based ETL/ELT pipelines using Apache Airflow for orchestration and dbt (Data Build Tool) for data transformation and validation.
+- Built and managed Airflow DAGs for scheduled batch processing and event-driven workflows, implementing dependencies, retries, monitoring, logging, and automated failure handling.
+- Developed analytical data models and Snowflake data warehouses, including fact and dimension tables, star schemas, and curated datasets for reporting teams.
+- Integrated data from Salesforce, SQL databases, REST APIs, and cloud services, applying transformation and data quality rules to produce reliable downstream datasets.
+- Developed Python scripts to automate recurring data-processing tasks, file ingestion, validation, reconciliation, and operational workflows.
+- Implemented dbt data quality tests and source validations to identify missing, duplicate, and inconsistent records before data was consumed downstream.
 
-**Software Engineer - Griffin Global Tech (client: Amarok Perimeter Security)** `May 2025 – Present`
-- .NET (C# / ASP.NET Core) + React across Amarok's commercial perimeter security platform (fence, access-control, sensor workflows).
-- AWS: EC2, **Lambda**, **EventBridge** (real-time security events), S3, IAM least-privilege.
-- **GitHub Actions** CI/CD + **Databricks ETL** for fence/sensor event streams → reporting/analytics. Full-stack observability via CloudWatch.
+### Junior Software Engineer — Skylab Systems Limited | Kenya
+*August 2022 – August 2023*
 
-**Software Engineer - Dynasoft Business Solutions** `Sept 2023 – Apr 2025`
-- C# / .NET + React for **KURA & KERRA**: Employee Self-Service, E-Procurement, Recruitment & Contractors Portal (**1,000+ contractors onboarded**).
-- Dynamics 365 Business Central **OData + custom codeunits**; **M-Pesa / eTIMS / eCitizen** integrations; Docker on client-owned servers.
+- Developed efficient and maintainable server-side logic and APIs using the Spring Boot framework.
+- Designed and optimized MySQL database schemas, ensuring data integrity and performance.
+- Integrated Standard Bank with a Rewards Management System, streamlining financial transactions.
+- Fixed bugs and optimized backend code, improving stability and overall system performance.
 
-**Junior Software Engineer - Skylab Systems** `Aug 2022 – Aug 2023`
-- Spring Boot REST APIs, MySQL optimization, **Stanbic Bank API → rewards system** real-time transactions.
+### Software Engineer Intern — Truweb Tech | Kenya
+*January 2022 – July 2022*
 
-**Software Engineer Intern - Truweb Tech** `Jan 2022 – July 2022`
-- Android (Java/Kotlin) + Firebase; Spring Boot API consumption (food-ordering); **USSD app** for offline access.
+- Developed and maintained Android applications using Java and Kotlin.
+- Integrated Google Maps and Firebase into Android applications.
+- Consumed RESTful APIs developed using Spring Boot in Android applications.
+- Designed and developed a food ordering application using Java and Firebase.
 
----
+## Certifications
 
-### Featured Projects - from CV
+- LinkedIn Certified: Cloud Computing for IT Pros
+- JetBrains Certified: Java
 
-| Project | Stack | Live |
-|---|---|---|
-| **ClearPay - Digital Wallet & Payments Platform** - double-entry ledger wallet, M-Pesa STK Push/B2C + Stripe, JWT/RBAC, idempotent webhooks, holds, ledger-derived balances. EF Core + PostgreSQL, Swagger, Docker, Terraform → AWS ECS. | `ASP.NET Core 10` `Next.js` `React` `PostgreSQL` | [clearpay-dev.vercel.app](https://clearpay-dev.vercel.app) |
-| **Afya Clinic - Outpatient Clinic System** — patients OP/ID/SHA, appointments, daily queue WAITING→COMPLETED, billing, M-Pesa-ready, SHA manual claim batches. | `Next.js` `TypeScript` `Prisma` `PostgreSQL` | [afya-clinic.vercel.app](https://afya-clinic.vercel.app) |
-| **Invoice Loan - Full-Stack Financial App** — React portal + secure .NET 8 API, auth/RBAC, Kafka async event-driven workflows. | `React` `.NET 8` `EF Core` `Kafka` | — |
+## Education
 
-> More on portfolio + repos. All demos are on separate hosted deployments — no local file paths.
-
----
-
-### GitHub Stats
-
-![Evans's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanslangat-hub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanslangat-hub&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### Certifications & Education
-
-- **LinkedIn Certified** - Cloud Computing for IT Pros (2022)
-- **JetBrains Certified** - Java (2024)
-- **BSc Computer Science** - Dedan Kimathi University of Technology — *May 2018 – May 2022* — Data Structures, DB Systems, SE, Networks, OS, Web Dev
+**Dedan Kimathi University of Technology** — Bachelor of Science in Computer Science
 
 ---
 
-### Contact
+## Contact
 
-- Email: `evanslangat22@gmail.com` - Phone: `+254 705 719 262`
-- LinkedIn: `linkedin.com/in/evans-langat` - GitHub: `github.com/evanslangat-hub`
-
----
-
-*Primary focus: **.NET + React**. Strong secondary: **Java / Spring Boot / Kafka** — see skills and experience above for the full stack.*
+- **Email:** [evanslangat22@gmail.com](mailto:evanslangat22@gmail.com)
+- **Phone:** [+254 705 719 262](tel:+254705719262)
+- **GitHub:** [@evanslangat-hub](https://github.com/evanslangat-hub)
